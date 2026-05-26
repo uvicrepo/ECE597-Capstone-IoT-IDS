@@ -13,13 +13,13 @@ The final report will summarize AI usage based on this log. Each entry should in
 
 ## Usage Entries
 
-### Example Entry （or table format）
+### Example Entry
 
-**Team Member:** Bowen  
-**Tool:** ChatGPT  
-**Category** Repository setup
-**Purpose:** Asked for help organizing the initial GitHub repository structure and documentation plan.  
-**Output Used:** Used the suggested modular folder structure as a starting point. Polished README.md and other documentation format to improve reading expeirence.
+| Team Member | Tool | Category | Purpose | Output Used | Verification / Modification |
+|---|---|---|---|---|---|
+| Bowen | ChatGPT | Repository setup | Asked for help organizing the initial GitHub repository structure and documentation plan. | Used the suggested modular folder structure as a starting point. Improved the formatting of `README.md` and project documentation to make the repository easier to read and navigate. | The structure and documentation were manually reviewed and adjusted to match the project requirements. |
+
+---
 
 ## Notes
 
