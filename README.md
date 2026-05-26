@@ -2,9 +2,9 @@
 
 ## Team Quick Start
 
-[Git Workflow](docs/git_workflow.md) 
-[Task Assignment](docs/task_assignment.md) 
-[Progress Log](docs/progress_log.md) 
+- [Git Workflow](docs/git_workflow.md) 
+- [Task Assignment](docs/task_assignment.md) 
+- [Progress Log](docs/progress_log.md) 
 
 Please read these before starting development so that everyone follows the same workflow and avoids duplicated work.
 

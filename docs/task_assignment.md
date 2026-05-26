@@ -9,7 +9,7 @@ The team has not finalized the task division yet. The repository has been initia
 ## Proposed Modules
 
 | Module | Description | Assigned Member | Status |
-
+|---|---|---|---|
 | Repository Setup | GitHub setup, structure, README, documentation | Bowen | In progress |
 | Data Sampling | Random packet-level and flow-level dataset generation | TBD | Not started |
 | Preprocessing | Missing values, outliers, scaling, feature selection | TBD | Not started |
